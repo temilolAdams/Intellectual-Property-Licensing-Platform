@@ -11,3 +11,5 @@ O
 tests/license-agreement.test.ts,9/3/93686182b2288159ec3c8b6227fa7b1d749bb14b
 P
  contracts/license-agreement.clar,8/c/8ce3cf816d84586e996bdb7d761c738a390b78e9
+M
+contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
