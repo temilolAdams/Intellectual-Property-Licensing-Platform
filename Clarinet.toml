@@ -10,6 +10,10 @@ path = 'contracts/ip-asset-management.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.license-agreement]
+path = 'contracts/license-agreement.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
