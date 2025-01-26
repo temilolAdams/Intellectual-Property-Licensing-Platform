@@ -13,3 +13,5 @@ P
  contracts/license-agreement.clar,8/c/8ce3cf816d84586e996bdb7d761c738a390b78e9
 M
 contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
+S
+#contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601

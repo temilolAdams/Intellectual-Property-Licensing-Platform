@@ -15,10 +15,11 @@ path = 'contracts/license-agreement.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.usage-tracking]
-path = 'contracts/usage-tracking.clar'
+[contracts.royalty-distribution]
+path = 'contracts/royalty-distribution.clar'
 clarity_version = 2
 epoch = 2.5
+
 [repl.analysis]
 passes = ['check_checker']
 
